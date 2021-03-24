@@ -1,6 +1,10 @@
 # Top-2-Electronics-Project-Using-BC547-Transistor-JLCPCB
-Thanks to JLCPCB for $2 PCB prototype with free smt assembly fee.
-Order now – https://jlcpcb.com
+Thanks To JLCPCB.
+
+$2 for 1-4 Layer PCBs.
+
+Get SMT Coupons: https://jlcpcb.com/RTA
+
 In this project, we are going to tech you making top 2 electronics project using led, resistor, capacitor, BC547 transistor & other electronics component. 
 ----------------------------------------------------------------------------------------------------
 Project no – 1 
